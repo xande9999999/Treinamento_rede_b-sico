@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/treinamento_de_rede.html" }
+  ]
+}
